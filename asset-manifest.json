@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.dd9be762.css",
+    "main.js": "/personal-website/static/js/main.1a61cbbc.js",
+    "static/js/787.88012170.chunk.js": "/personal-website/static/js/787.88012170.chunk.js",
+    "static/media/reading-journal-fast.gif": "/personal-website/static/media/reading-journal-fast.aaf61f22b3ce37c9e10d.gif",
+    "static/media/realm-app-fast.gif": "/personal-website/static/media/realm-app-fast.c32fd8e48d87bb3086e1.gif",
+    "static/media/statproject.png": "/personal-website/static/media/statproject.e2700ed5079a81027541.png",
+    "static/media/headshot.jpg": "/personal-website/static/media/headshot.e78ff36b6f704db056d6.jpg",
+    "static/media/xcode.svg": "/personal-website/static/media/xcode.ea9034a7ff22fdb1a15bb8d3041b3d0f.svg",
+    "static/media/java.svg": "/personal-website/static/media/java.5ec35aaf69618c3e801b3f9512b32583.svg",
+    "static/media/python.svg": "/personal-website/static/media/python.60d3030b973e3a9d874e54021bb3282e.svg",
+    "static/media/react.svg": "/personal-website/static/media/react.84baf35a2d0333d60e58aa2e5f3c6fc1.svg",
+    "static/media/javascript.svg": "/personal-website/static/media/javascript.37270e3adc5620c25b5e9b9b6cc900d6.svg",
+    "static/media/swift.svg": "/personal-website/static/media/swift.28d6ca3dec64222791391ed791e54371.svg",
+    "static/media/git.svg": "/personal-website/static/media/git.515d8aef0243ec3d11e1f42a189a34d2.svg",
+    "static/media/rstudio.svg": "/personal-website/static/media/rstudio.ee0671f4eb6afc64362088858eeac33c.svg",
+    "index.html": "/personal-website/index.html",
+    "static/media/firebase.svg": "/personal-website/static/media/firebase.0d08898b383755688cb450fd88a9bf23.svg",
+    "static/media/pandas.svg": "/personal-website/static/media/pandas.294c6d02be43fab1f66645b567bcaf89.svg",
+    "main.dd9be762.css.map": "/personal-website/static/css/main.dd9be762.css.map",
+    "main.1a61cbbc.js.map": "/personal-website/static/js/main.1a61cbbc.js.map",
+    "787.88012170.chunk.js.map": "/personal-website/static/js/787.88012170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd9be762.css",
+    "static/js/main.1a61cbbc.js"
+  ]
+}
